@@ -80,11 +80,9 @@ python weather_app.py New York
 
 
 ## Example Output
-
-
-==================================================
+=============================================
 Weather for London, GB
-==================================================
+=============================================
 Temperature: 15°C
 Feels Like: 14°C
 Description: Partly cloudy
@@ -92,12 +90,10 @@ Humidity: 65%
 Pressure: 1013 hPa
 Wind Speed: 3.5 m/s
 Last Updated: 2024-01-17 14:30:45
-==================================================
+============================================
 
 
 ## Project Structure
-
-
 simple-weather-app/
 │
 ├── weather_app.py          # Main Python program
